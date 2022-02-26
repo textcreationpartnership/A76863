@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloody fight at Black-Water in Ireland: where almost 5000. Protestants are put to the sword by the rebels. With a list of the particulars; a relation of the manner; and the names of the chiefe. And a declaration concerning the Arch-bishop of Yorke, and divers gentlemen, and others, that deserted the King, protesting against the proceedings of the Parliaments enemies. And how Major-Generall Mitton hath taken from the Lord Byron two demi-culverins, two murdering-pieces, 200. armes, killed some, and taken divers prisoners, and good store of provisions and ammunition. Printed by the originall papers, and entred into the register booke, and published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76863</idno>
+            <idno type="STC">Wing B3236</idno>
+            <idno type="STC">Thomason E340_21</idno>
+            <idno type="STC">ESTC R200882</idno>
+            <idno type="EEBO-CITATION">99861508</idno>
+            <idno type="PROQUEST">99861508</idno>
+            <idno type="VID">113645</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76863)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113645)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E340[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloody fight at Black-Water in Ireland: where almost 5000. Protestants are put to the sword by the rebels. With a list of the particulars; a relation of the manner; and the names of the chiefe. And a declaration concerning the Arch-bishop of Yorke, and divers gentlemen, and others, that deserted the King, protesting against the proceedings of the Parliaments enemies. And how Major-Generall Mitton hath taken from the Lord Byron two demi-culverins, two murdering-pieces, 200. armes, killed some, and taken divers prisoners, and good store of provisions and ammunition. Printed by the originall papers, and entred into the register booke, and published according to order.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iane Coe,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>Iune the 15. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Blackwater (Ireland) --  History. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113645:1" rendition="simple:additions"/>
+            <p>A BLOODY FIGHT AT <hi>BLACK-WATER</hi> IN IRELAND: WHERE Almoſt 5000. Proteſtants are put to the ſword by the Rebels. With a Liſt of the particulars; A Relation of the manner; and the Names of the chiefe.</p>
+            <p>And a <hi>Declaration</hi> concerning the <hi>Arch-biſhop</hi> of <hi>Yorke,</hi> and Divers Gentlemen, and others, that deſerted the King, proteſting againſt the Proceedings of the <hi>Parliaments</hi> Enemies.</p>
+            <p>And how Major-Generall MITTON hath taken from the Lord BYRON two Demi-Culverins, two Murdering-Pieces, 200. Armes, killed ſome, and taken divers Priſoners, and good ſtore of Proviſions and Ammunition.</p>
+            <p>Printed by the Originall Papers, and Entred into the Regiſter Booke, and publiſhed according to Order.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Iane Coe, Iune</hi> the 15. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dispatch">
+            <pb facs="tcp:113645:2"/>
+            <p>NO Iriſh Rebels are yet come into Wales. Major Generall Monro of the Scots forces had a Randez<g ref="char:EOLhyphen"/>voves on Wedneſday Iune 3. at Blaces of 500. Horſe and Foote, and marched the next day towards Banburb, where <hi>Owen-Ro-On<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ale Mac-Art</hi> was quartered with a<g ref="char:EOLhyphen"/>bout 9000. Horſe and Foote, On Fryday Iune 5. he fa<g ref="char:EOLhyphen"/>ced the Rebels neere the black-water, and charged them that evening with our horſe they amberſcaded the woods; but we beat them away, and purſued them to their Bo<g ref="char:EOLhyphen"/>dy: That night was a very bloody fight: but the Re<g ref="char:EOLhyphen"/>bels exceeding the number of the Britiſh, and being well armed and mounted they routed firſt our Horſe, then our Foote, though with ſome loſſe on their part, Monro came to Belfaſt with onely 6. Horſe: The Lord Con<g ref="char:EOLhyphen"/>wayes ſonne eſcaped and ſome others, but moſt were loſt. There is great neede to haſten ſupplyes leaſt Ireland be totally routed. Let not England quarrel with friends (be<g ref="char:EOLhyphen"/>cauſe ſome Clergy would ſet the Kingdome in a new flame) but cherriſh thoſe who act for our Peace.</p>
+            <list>
+               <head>H List of that bloody fight at Black-Water in Ireland, Iune the 5. 1646. by the Iriſh Rebels againtſt Major Generall Monro:</head>
+               <item>7. Piece of Ordnance taken, 2. of them ſmall.</item>
+               <item>5000. Armes, All they had almoſt.</item>
+               <item>4000. Foote, and upward, killed taken and Routed.</item>
+               <item>600. Horſe routed: ſome killed and taken.</item>
+               <item>Lord Mount-gomery,, Lord Ards killed or taken.</item>
+               <item>Lord Blany ſore wounded, and taken, and dead.</item>
+               <item>Almoſt all the Foot Officers and Souldiers put to the ſword.</item>
+            </list>
+         </div>
+         <div type="declaration_against_Parliaments_enemies">
+            <pb n="1" facs="tcp:113645:2" rendition="simple:additions"/>
+            <p>
+               <seg rend="decorInit">A</seg>Mongſt the many wonderfull wayes and workes of Gods providence of late for the incouragement of his Servants, daunting the adverſaries, and carrying on his own great Worke againſt the malice and mul<g ref="char:EOLhyphen"/>titude of the Enemies, it ſhould ſe<g ref="char:EOLhyphen"/>cure none of the leaſt, but rather moſt remarkable, which hath been done of late in North-Wales by that poore, and two much neglected and deſpiſed power, under that valient, active, and ſelfe-de<g ref="char:EOLhyphen"/>nying Gentleman, Collonel <hi>Thomas Mytton,</hi> Major Ge<g ref="char:EOLhyphen"/>nerall for thoſe Counties; who as hee was by the wiſe<g ref="char:EOLhyphen"/>dome of the Parliament thought fit and choſen out, and deſigned to that Service, ſo do many ſinguler qualifications and indeede all the paſſages of Gods providence in his Service ſeeme to proclame him a man appointed by God himſelfe alſo for that imployment, and to have your Joſhuas promiſe made him, hat no Enemy ſhall be able to ſtand before him; to inſtance onely in this late buſineſſe of <hi>Carnarven</hi> concerning which (that God may have his due prayſe) theſe perticulors ſeeme remarkable.</p>
+            <p n="1">
+               <pb facs="tcp:113645:3"/> 1. The diſcouragements which might have hindre his advance, if he had conſulted with fleſh and blood, as namely the great work he had newly undertaken at <hi>Denbigh,</hi> the beſieging whereof required his full ſtrength that might be ſparred for his other Sieges.</p>
+            <p n="2">2. The Regiments being neere to <hi>Carnarven</hi> 30. miles from any place of Retraite, and Conway a Garriſon of the enemies in the mid-way betwixt him and his mayne Body.</p>
+            <p n="3">3. The number of the Enemies againſt whom he was to march being 250. Foote, and 50. Horſe, beſide Gentle<g ref="char:EOLhyphen"/>men as was reported.</p>
+            <p n="4">4. The quality of their Souldiers being <hi>Lathamites Beeſtoniers,</hi> and ſuch expert and active Souldiers as the L. <hi>Byron</hi> could procure, or <hi>England,</hi> or <hi>Ireland</hi> would af<g ref="char:EOLhyphen"/>ford</p>
+            <p n="5">5. The deſperate condition of their Feild Marſhall Ge<g ref="char:EOLhyphen"/>neral the Lord <hi>Byron,</hi> who therefore being by the Honou<g ref="char:EOLhyphen"/>rable Parliament exempted in all lykelihood would fight it out to the laſt man.</p>
+            <p n="6">6. The want of pay for his poore Souldiers who (notwithſtanding) the voate of the Honourable Houſes, and divers Letters from the Committee of the Kingdoms have received little pay for many Moneths by-gone, the good hand of God carrying him above all difficulties, and making way for his march rayſing up the Spirit both of frineds and foes, in a wonderfull manner to contribute ayd unto his enterprize, for God had preſerved one princi<g ref="char:EOLhyphen"/>pall Inſtrument. viz. Mr. <hi>Thomas Glyn</hi> who in all theſe tryalls appeared Parliament prooffe, who having great power, in thoſe parts did by his invitation prevaile much for the Generalls advance. 2 God incline the hearts of ſome who had been Commiſſioners of Array, and ac<g ref="char:EOLhyphen"/>cordingly yeeld to promiſe aſſiſtance to his work. 3. But principally the confidence the Generall had of helpe from
+<pb n="3" facs="tcp:113645:3"/>Heaven, &amp; this aſſurance gayned out of former experien<g ref="char:EOLhyphen"/>ces which cauſeth him cheerefully to ſet upon the worke as followeth.</p>
+            <p>He drew out his Leagure at <hi>Denbigh</hi> a party of about 300. Horſe and Foote, and led them in his own perſon advancing neere <hi>Conway</hi> a ſtrong hold of the Enemies, neere which place they tooke 11. priſoners marching, &amp;c.</p>
+            <p>Yea my Lord of <hi>Yorke,</hi> was very zealous to promote this worke, keepeing his houſe <hi>Penryne</hi> a Gariſon againſt the Lord <hi>Byron</hi> for which he ſuffered many bitter inve<g ref="char:EOLhyphen"/>ctives from the ſaid Lord, Sir <hi>William Williams</hi> alſo was very forward to afford to afford the Generall all accom<g ref="char:EOLhyphen"/>modations fortifying alſo his houſe againſt the Lord <hi>By<g ref="char:EOLhyphen"/>ron,</hi> marching from <hi>Abaryſtwidd</hi> with a paſſe to <hi>Carnar<g ref="char:EOLhyphen"/>ven</hi> but falſifying the ſame they went for Conway, two whereof were Iriſh which the Generall cauſed to be hanged immediatly according to the Ordinance in that kinde.</p>
+            <p>From thence they advanced towards Penrin, where the Generall and Officers were kindley entertained and feaſted, (being Wednesday the 29. of Aprill) where the enemy was ready to entertaine them, having lined their hedges, ditches, to obſtruct their paſſage, and furniſhed the Subburbs with a great ſtrength both of Horſe, and Foote, the General having viewed their condition, di<g ref="char:EOLhyphen"/>vided his Body into a parts, leading one of them himſelfe towards the high Rock, and the Subburbs on the North-ſide of the Towne, where the chief ſtrength of the enemy lay, but the diſpute continved not long; for though the enemy came out furiouſly, yet the gallant be<g ref="char:EOLhyphen"/>haviour of that ſmall party which the General (wherein the <hi>Lancaſhire</hi> forces under Captain <hi>Aſpin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al</hi> and captain <hi>Birch</hi> muſt not loſe their due praiſe) ſpeedily forced them from the hedges to the houſes, and from the houſes with<g ref="char:EOLhyphen"/>out
+<pb n="4" facs="tcp:113645:4"/>out the walls to the Town within, not permitting them to finiſh their Fire-works, about which they very buſily ſet themſelves in their retreat, <hi>viz.</hi> to fire all the houſes with<g ref="char:EOLhyphen"/>out the walls.</p>
+            <p n="1">1 Gods powerfull preſence in the diſpoſition and pre<g ref="char:EOLhyphen"/>ſervation of the Leagure, for the Scituation of the Caſtle was ſuch, as forced the diviſion of the Generals ſmall ſtrength, <hi>viz.</hi> The Land forces on the North ſide the water in the Suburbs, and the Generals men on the other ſide the River at <hi>Godallen,</hi> by which means there was neere two miles (the ordinary way) to each others Guard, &amp; <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herfore could admit no reliefe in caſe either parties ſhould be en<g ref="char:EOLhyphen"/>gaged.</p>
+            <p n="2">2 Though the Enemy took the advantage of this diſ<g ref="char:EOLhyphen"/>union, and made two deſperate ſallyes upon the Generals men: the former the 2. of May: the latter the 7. yet was then God ſeen in the Mount, for in the former toward day break they iſſued out at a low water (for that was their only opportunity) 80 Foot, and 40 Horſe; but ſuch was the vigilancie of the Officers, or rather the care of Iſ<g ref="char:EOLhyphen"/>raels Watch-men, that they were ready to entertain them forced them back, took three Souldiers, and one Captaine <hi>Birkit,</hi> being Captain-Lieutenant to the Lord <hi>Byron,</hi> and the conſiderableſt Captain in his Garaiſon. In the ſecond fall Horſe in the day time, with a reſolution to cut off all that ſmall party but God ſo ſtrengthned the hearts and hands of his Servants Captaine <hi>Evans</hi> and Cornet <hi>Toung</hi> with their men that within the ſpace of halfe an houre they forced their retraite having 5. ſlaine on the ground, whereof one was a Lieutenant, and another an Enſigne, and 16. priſoners, among whom were 3. Iriſh, &amp; therefore hanged according to the Ordinance.</p>
+            <p n="3">
+               <pb n="5" facs="tcp:113645:4"/> 3. That although (for prevention of their reliefe by freſh water, or other proviſion by Sea) the Generall was forced to erect a Sconce upon the Sea Banke, and draw trenches down to the Sea, out of which his men might fire ſecurely; yet God did ſo wonderfully guard his men that neither Souldier nor Pioneer (though working night and day for divers weeks together) loſt a drop of blood.</p>
+            <p n="4">4. God marvellouſly changing the hearts of the Peo<g ref="char:EOLhyphen"/>ple in thoſe parts, where was wont to be the Kings re<g ref="char:EOLhyphen"/>cruiting place, but now a marvellous compliance of the Countrey with the Generall, whoſe affections he hath gained by his faire deportment towards them, and his ten<g ref="char:EOLhyphen"/>der care over them, leaſt violence ſhould be offered to their perſons or goods; of which complyance the Enemy in the Caſtle took ſpecial notice, and ſcornfully ſtiled them Bumpkins, and many times would (from the walls) rayle againſt the Bumpkins, and damme themſelves, ſaying, if the Bumpkins had been as true to them, as they proved to <hi>Mitton,</hi> he had never come to beſiege them.</p>
+            <p>Their affections further are obſerved by their raiſing a compleat Company of able men, and preſenting them to the Generall, and are now under the Command of Cap<g ref="char:EOLhyphen"/>tain <hi>Dawſon,</hi> with addition to his Forces, gave liberty to ſome of his own to draw off from the Leagure, and lye a<g ref="char:EOLhyphen"/>bout <hi>Abber</hi> to reſtrain the inſolency of the <hi>Conway</hi> youths who did raven and ſpoyle all the Countrey over; and this occaſioneth an Expreſſe of Gods goodneſſe further to the Generals forces, there being about 30 horſe commanded by Cornet <hi>Graunt,</hi> belonging to Colonell <hi>Michael Iones,</hi> the noble Governour of <hi>Cheſter.</hi> On Thurſday the Fourth of this inſtant June, about one of the clock in the morning the principall ſtrength of Horſe and Foot out of <hi>Convay</hi> were diſcovered to have gathered all the Cattell and hor<g ref="char:EOLhyphen"/>ſes about <hi>Abber,</hi> and haſting with them towards their Den, which the Cornet having notice of, be<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urred himſelf
+<pb n="6" facs="tcp:113645:5"/>very faithfully and gallantly, fell ſo fiercely on the Ene<g ref="char:EOLhyphen"/>mies horſe, that he put them to a retreat, and purſued them to the walls of <hi>Conway,</hi> and in his return reſcued the Cat<g ref="char:EOLhyphen"/>tell and Goods, and 42 Souldiers, and brought them pri<g ref="char:EOLhyphen"/>ſoner to <hi>Bangor.</hi>
+            </p>
+            <p>Herein laſtly God was ſeen in this work that although the town and caſtle were impregnable, the Enemy therein ſo conſiderable, having ſtore of Proviſion and ammuniti<g ref="char:EOLhyphen"/>on for 3 Months longer, yet God forced them to ſtoop &amp; yeeld up the town and caſtle to the hands of the Generall for the ſervice of the Parliament upon Saturday the 6 of this inſtant Iune, upon the Articles for that purpoſe. Where in the Caſtle or Towne were found two Demi<g ref="char:EOLhyphen"/>culverins, two murthering Pieces. 200. Armes, and great ſtoro of Ammunition, and Proviſion as above ſaid, and a<g ref="char:EOLhyphen"/>mongſt their booties we muſt not miſſe the Lancaſhire Bear-ward and his great beare who had a Petition from the Lord Byron and little for free puarter for himſelf and his beaſt, very forme<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> drawne in Parchment.</p>
+         </div>
+         <trailer>FJNJS</trailer>
+      </body>
+   </text>
+</TEI>
